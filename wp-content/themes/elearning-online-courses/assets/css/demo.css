@@ -1,0 +1,10 @@
+a.button.button-primary.get, a.button.button-primary.get:active, a.button.button-primary.get:focus, a.button.button-primary.get:hover, a.button.button-primary.get:visited{
+	background:#ff4f57 !important;
+}
+a.button.button-primary.get:hover{
+	background: #000 !important;
+	color: #ff4f57 !important;
+}
+thead.table-book {
+    background: #ff4f57 !important;
+}
